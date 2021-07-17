@@ -4,7 +4,9 @@
 
 To run:
 1.User git clone option with repo link git clone https://github.com/shiprat/heroku.git.
+
 2.The first time run npm install.
+
 3. And then use npm star to run the app.
 
 For Payment :
